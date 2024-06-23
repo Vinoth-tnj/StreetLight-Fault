@@ -1,0 +1,501 @@
+ID,Maintenance_Date,Type_of_Maintenance,Fault_Description,Maintenance_Crew,Duration,Solution
+0001,2020-01-01,Bulb Replacement,Bulb broken,Maintenance Team Gamma,46,Replaced bulb
+0002,2020-01-04,Wiring Repair,Wire fault,Maintenance Team Beta,40,Repaired wiring
+0003,2020-01-08,Fixture Adjustment,Fixture position change,Maintenance Team Beta,23,Adjusted fixture
+0004,2020-01-11,Bulb Replacement,Bulb broken,Maintenance Team Gamma,39,Replaced bulb
+0005,2020-01-15,Wiring Repair,Wire fault,Maintenance Team Gamma,44,Repaired wiring
+0006,2020-01-19,Bulb Replacement,Bulb fault,Maintenance Team Beta,59,Replaced bulb
+0007,2020-01-22,Wiring Repair,Wire fault,Maintenance Team Gamma,32,Repaired wiring
+0008,2020-01-26,Fixture Adjustment,Fixture position change,Maintenance Team Beta,37,Adjusted fixture
+0009,2020-01-30,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,57,Adjusted fixture
+0010,2020-02-02,Bulb Replacement,Bulb broken,Maintenance Team Beta,25,Replaced bulb
+0011,2020-02-06,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,60,Adjusted fixture
+0012,2020-02-10,Fixture Adjustment,Fixture position change,Maintenance Team Beta,23,Adjusted fixture
+0013,2020-02-13,Wiring Repair,Wire fault,Maintenance Team Alpha,54,Repaired wiring
+0014,2020-02-17,Wiring Repair,Wire fault,Maintenance Team Beta,44,Repaired wiring
+0015,2020-02-21,Bulb Replacement,Bulb fault,Maintenance Team Alpha,50,Replaced bulb
+0016,2020-02-24,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,32,Adjusted fixture
+0017,2020-02-28,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,22,Adjusted fixture
+0018,2020-03-03,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,20,Adjusted fixture
+0019,2020-03-06,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,24,Adjusted fixture
+0020,2020-03-10,Bulb Replacement,Bulb broken,Maintenance Team Gamma,45,Replaced bulb
+0021,2020-03-14,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,25,Adjusted fixture
+0022,2020-03-17,Wiring Repair,Wire fault,Maintenance Team Alpha,33,Repaired wiring
+0023,2020-03-21,Fixture Adjustment,Fixture position change,Maintenance Team Beta,21,Adjusted fixture
+0024,2020-03-25,Bulb Replacement,Bulb broken,Maintenance Team Alpha,43,Replaced bulb
+0025,2020-03-28,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,46,Adjusted fixture
+0026,2020-04-01,Wiring Repair,Wire fault,Maintenance Team Alpha,50,Repaired wiring
+0027,2020-04-05,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,51,Adjusted fixture
+0028,2020-04-08,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,57,Adjusted fixture
+0029,2020-04-12,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,58,Adjusted fixture
+0030,2020-04-16,Bulb Replacement,Bulb fault,Maintenance Team Beta,34,Replaced bulb
+0031,2020-04-19,Fixture Adjustment,Fixture position change,Maintenance Team Beta,60,Adjusted fixture
+0032,2020-04-23,Wiring Repair,Wire fault,Maintenance Team Beta,45,Repaired wiring
+0033,2020-04-27,Bulb Replacement,Bulb fault,Maintenance Team Beta,58,Replaced bulb
+0034,2020-04-30,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,34,Adjusted fixture
+0035,2020-05-04,Wiring Repair,Wire fault,Maintenance Team Beta,30,Repaired wiring
+0036,2020-05-08,Wiring Repair,Wire fault,Maintenance Team Gamma,32,Repaired wiring
+0037,2020-05-11,Wiring Repair,Wire fault,Maintenance Team Alpha,29,Repaired wiring
+0038,2020-05-15,Bulb Replacement,Bulb fault,Maintenance Team Beta,21,Replaced bulb
+0039,2020-05-19,Wiring Repair,Wire fault,Maintenance Team Gamma,26,Repaired wiring
+0040,2020-05-22,Fixture Adjustment,Fixture position change,Maintenance Team Beta,46,Adjusted fixture
+0041,2020-05-26,Wiring Repair,Wire fault,Maintenance Team Beta,42,Repaired wiring
+0042,2020-05-30,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,36,Adjusted fixture
+0043,2020-06-02,Wiring Repair,Wire fault,Maintenance Team Beta,42,Repaired wiring
+0044,2020-06-06,Wiring Repair,Wire fault,Maintenance Team Beta,35,Repaired wiring
+0045,2020-06-10,Bulb Replacement,Bulb broken,Maintenance Team Alpha,22,Replaced bulb
+0046,2020-06-13,Bulb Replacement,Bulb broken,Maintenance Team Gamma,30,Replaced bulb
+0047,2020-06-17,Bulb Replacement,Bulb fault,Maintenance Team Beta,25,Replaced bulb
+0048,2020-06-20,Wiring Repair,Wire fault,Maintenance Team Gamma,59,Repaired wiring
+0049,2020-06-24,Bulb Replacement,Bulb broken,Maintenance Team Gamma,59,Replaced bulb
+0050,2020-06-28,Wiring Repair,Wire fault,Maintenance Team Gamma,50,Repaired wiring
+0051,2020-07-01,Wiring Repair,Wire fault,Maintenance Team Alpha,38,Repaired wiring
+0052,2020-07-05,Bulb Replacement,Bulb broken,Maintenance Team Beta,47,Replaced bulb
+0053,2020-07-09,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,38,Adjusted fixture
+0054,2020-07-12,Bulb Replacement,Bulb broken,Maintenance Team Gamma,32,Replaced bulb
+0055,2020-07-16,Wiring Repair,Wire fault,Maintenance Team Alpha,60,Repaired wiring
+0056,2020-07-20,Bulb Replacement,Bulb fault,Maintenance Team Alpha,47,Replaced bulb
+0057,2020-07-23,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,41,Adjusted fixture
+0058,2020-07-27,Fixture Adjustment,Fixture position change,Maintenance Team Beta,33,Adjusted fixture
+0059,2020-07-31,Bulb Replacement,Bulb fault,Maintenance Team Alpha,25,Replaced bulb
+0060,2020-08-03,Bulb Replacement,Bulb broken,Maintenance Team Alpha,24,Replaced bulb
+0061,2020-08-07,Bulb Replacement,Bulb broken,Maintenance Team Beta,52,Replaced bulb
+0062,2020-08-11,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,60,Adjusted fixture
+0063,2020-08-14,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,51,Adjusted fixture
+0064,2020-08-18,Wiring Repair,Wire fault,Maintenance Team Beta,31,Repaired wiring
+0065,2020-08-22,Fixture Adjustment,Fixture position change,Maintenance Team Beta,41,Adjusted fixture
+0066,2020-08-25,Wiring Repair,Wire fault,Maintenance Team Beta,51,Repaired wiring
+0067,2020-08-29,Bulb Replacement,Bulb broken,Maintenance Team Alpha,37,Replaced bulb
+0068,2020-09-02,Wiring Repair,Wire fault,Maintenance Team Alpha,48,Repaired wiring
+0069,2020-09-05,Fixture Adjustment,Fixture position change,Maintenance Team Beta,38,Adjusted fixture
+0070,2020-09-09,Bulb Replacement,Bulb broken,Maintenance Team Gamma,20,Replaced bulb
+0071,2020-09-13,Bulb Replacement,Bulb broken,Maintenance Team Gamma,25,Replaced bulb
+0072,2020-09-16,Bulb Replacement,Bulb fault,Maintenance Team Beta,29,Replaced bulb
+0073,2020-09-20,Bulb Replacement,Bulb broken,Maintenance Team Gamma,23,Replaced bulb
+0074,2020-09-24,Wiring Repair,Wire fault,Maintenance Team Alpha,36,Repaired wiring
+0075,2020-09-27,Fixture Adjustment,Fixture position change,Maintenance Team Beta,60,Adjusted fixture
+0076,2020-10-01,Bulb Replacement,Bulb fault,Maintenance Team Beta,22,Replaced bulb
+0077,2020-10-05,Bulb Replacement,Bulb fault,Maintenance Team Alpha,20,Replaced bulb
+0078,2020-10-08,Bulb Replacement,Bulb fault,Maintenance Team Beta,21,Replaced bulb
+0079,2020-10-12,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,47,Adjusted fixture
+0080,2020-10-16,Bulb Replacement,Bulb fault,Maintenance Team Beta,57,Replaced bulb
+0081,2020-10-19,Wiring Repair,Wire fault,Maintenance Team Gamma,40,Repaired wiring
+0082,2020-10-23,Wiring Repair,Wire fault,Maintenance Team Beta,48,Repaired wiring
+0083,2020-10-27,Bulb Replacement,Bulb fault,Maintenance Team Alpha,56,Replaced bulb
+0084,2020-10-30,Wiring Repair,Wire fault,Maintenance Team Gamma,48,Repaired wiring
+0085,2020-11-03,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,36,Adjusted fixture
+0086,2020-11-07,Bulb Replacement,Bulb fault,Maintenance Team Beta,30,Replaced bulb
+0087,2020-11-10,Bulb Replacement,Bulb broken,Maintenance Team Beta,50,Replaced bulb
+0088,2020-11-14,Bulb Replacement,Bulb fault,Maintenance Team Alpha,21,Replaced bulb
+0089,2020-11-18,Wiring Repair,Wire fault,Maintenance Team Gamma,38,Repaired wiring
+0090,2020-11-21,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,41,Adjusted fixture
+0091,2020-11-25,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,38,Adjusted fixture
+0092,2020-11-28,Bulb Replacement,Bulb fault,Maintenance Team Beta,46,Replaced bulb
+0093,2020-12-02,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,30,Adjusted fixture
+0094,2020-12-06,Bulb Replacement,Bulb broken,Maintenance Team Beta,50,Replaced bulb
+0095,2020-12-09,Wiring Repair,Wire fault,Maintenance Team Beta,51,Repaired wiring
+0096,2020-12-13,Wiring Repair,Wire fault,Maintenance Team Alpha,23,Repaired wiring
+0097,2020-12-17,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,23,Adjusted fixture
+0098,2020-12-20,Bulb Replacement,Bulb broken,Maintenance Team Beta,59,Replaced bulb
+0099,2020-12-24,Wiring Repair,Wire fault,Maintenance Team Beta,27,Repaired wiring
+0100,2020-12-28,Fixture Adjustment,Fixture position change,Maintenance Team Beta,22,Adjusted fixture
+0101,2020-12-31,Wiring Repair,Wire fault,Maintenance Team Gamma,37,Repaired wiring
+0102,2021-01-04,Bulb Replacement,Bulb broken,Maintenance Team Beta,50,Replaced bulb
+0103,2021-01-08,Fixture Adjustment,Fixture position change,Maintenance Team Beta,36,Adjusted fixture
+0104,2021-01-11,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,52,Adjusted fixture
+0105,2021-01-15,Fixture Adjustment,Fixture position change,Maintenance Team Beta,59,Adjusted fixture
+0106,2021-01-19,Fixture Adjustment,Fixture position change,Maintenance Team Beta,47,Adjusted fixture
+0107,2021-01-22,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,40,Adjusted fixture
+0108,2021-01-26,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,43,Adjusted fixture
+0109,2021-01-30,Fixture Adjustment,Fixture position change,Maintenance Team Beta,29,Adjusted fixture
+0110,2021-02-02,Bulb Replacement,Bulb fault,Maintenance Team Beta,29,Replaced bulb
+0111,2021-02-06,Bulb Replacement,Bulb broken,Maintenance Team Alpha,48,Replaced bulb
+0112,2021-02-10,Bulb Replacement,Bulb broken,Maintenance Team Beta,41,Replaced bulb
+0113,2021-02-13,Fixture Adjustment,Fixture position change,Maintenance Team Beta,54,Adjusted fixture
+0114,2021-02-17,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,39,Adjusted fixture
+0115,2021-02-21,Fixture Adjustment,Fixture position change,Maintenance Team Beta,56,Adjusted fixture
+0116,2021-02-24,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,37,Adjusted fixture
+0117,2021-02-28,Fixture Adjustment,Fixture position change,Maintenance Team Beta,46,Adjusted fixture
+0118,2021-03-04,Wiring Repair,Wire fault,Maintenance Team Gamma,31,Repaired wiring
+0119,2021-03-07,Fixture Adjustment,Fixture position change,Maintenance Team Beta,26,Adjusted fixture
+0120,2021-03-11,Wiring Repair,Wire fault,Maintenance Team Beta,31,Repaired wiring
+0121,2021-03-15,Wiring Repair,Wire fault,Maintenance Team Alpha,25,Repaired wiring
+0122,2021-03-18,Bulb Replacement,Bulb fault,Maintenance Team Gamma,57,Replaced bulb
+0123,2021-03-22,Fixture Adjustment,Fixture position change,Maintenance Team Beta,47,Adjusted fixture
+0124,2021-03-26,Bulb Replacement,Bulb broken,Maintenance Team Alpha,49,Replaced bulb
+0125,2021-03-29,Wiring Repair,Wire fault,Maintenance Team Beta,50,Repaired wiring
+0126,2021-04-02,Wiring Repair,Wire fault,Maintenance Team Gamma,53,Repaired wiring
+0127,2021-04-06,Bulb Replacement,Bulb broken,Maintenance Team Gamma,34,Replaced bulb
+0128,2021-04-09,Wiring Repair,Wire fault,Maintenance Team Alpha,54,Repaired wiring
+0129,2021-04-13,Wiring Repair,Wire fault,Maintenance Team Beta,37,Repaired wiring
+0130,2021-04-17,Bulb Replacement,Bulb broken,Maintenance Team Beta,22,Replaced bulb
+0131,2021-04-20,Bulb Replacement,Bulb fault,Maintenance Team Gamma,36,Replaced bulb
+0132,2021-04-24,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,41,Adjusted fixture
+0133,2021-04-28,Fixture Adjustment,Fixture position change,Maintenance Team Beta,40,Adjusted fixture
+0134,2021-05-01,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,40,Adjusted fixture
+0135,2021-05-05,Wiring Repair,Wire fault,Maintenance Team Alpha,36,Repaired wiring
+0136,2021-05-09,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,27,Adjusted fixture
+0137,2021-05-12,Bulb Replacement,Bulb fault,Maintenance Team Alpha,58,Replaced bulb
+0138,2021-05-16,Fixture Adjustment,Fixture position change,Maintenance Team Beta,58,Adjusted fixture
+0139,2021-05-19,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,35,Adjusted fixture
+0140,2021-05-23,Wiring Repair,Wire fault,Maintenance Team Gamma,52,Repaired wiring
+0141,2021-05-27,Wiring Repair,Wire fault,Maintenance Team Gamma,33,Repaired wiring
+0142,2021-05-30,Bulb Replacement,Bulb fault,Maintenance Team Alpha,38,Replaced bulb
+0143,2021-06-03,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,60,Adjusted fixture
+0144,2021-06-07,Wiring Repair,Wire fault,Maintenance Team Gamma,22,Repaired wiring
+0145,2021-06-10,Wiring Repair,Wire fault,Maintenance Team Beta,31,Repaired wiring
+0146,2021-06-14,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,54,Adjusted fixture
+0147,2021-06-18,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,23,Adjusted fixture
+0148,2021-06-21,Bulb Replacement,Bulb fault,Maintenance Team Alpha,20,Replaced bulb
+0149,2021-06-25,Bulb Replacement,Bulb fault,Maintenance Team Beta,37,Replaced bulb
+0150,2021-06-29,Fixture Adjustment,Fixture position change,Maintenance Team Beta,60,Adjusted fixture
+0151,2021-07-02,Bulb Replacement,Bulb broken,Maintenance Team Beta,30,Replaced bulb
+0152,2021-07-06,Wiring Repair,Wire fault,Maintenance Team Gamma,25,Repaired wiring
+0153,2021-07-10,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,51,Adjusted fixture
+0154,2021-07-13,Bulb Replacement,Bulb fault,Maintenance Team Gamma,44,Replaced bulb
+0155,2021-07-17,Fixture Adjustment,Fixture position change,Maintenance Team Beta,22,Adjusted fixture
+0156,2021-07-21,Wiring Repair,Wire fault,Maintenance Team Alpha,46,Repaired wiring
+0157,2021-07-24,Wiring Repair,Wire fault,Maintenance Team Beta,57,Repaired wiring
+0158,2021-07-28,Wiring Repair,Wire fault,Maintenance Team Beta,33,Repaired wiring
+0159,2021-08-01,Wiring Repair,Wire fault,Maintenance Team Gamma,40,Repaired wiring
+0160,2021-08-04,Wiring Repair,Wire fault,Maintenance Team Gamma,24,Repaired wiring
+0161,2021-08-08,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,23,Adjusted fixture
+0162,2021-08-12,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,39,Adjusted fixture
+0163,2021-08-15,Wiring Repair,Wire fault,Maintenance Team Alpha,58,Repaired wiring
+0164,2021-08-19,Wiring Repair,Wire fault,Maintenance Team Gamma,49,Repaired wiring
+0165,2021-08-23,Wiring Repair,Wire fault,Maintenance Team Alpha,29,Repaired wiring
+0166,2021-08-26,Bulb Replacement,Bulb fault,Maintenance Team Beta,46,Replaced bulb
+0167,2021-08-30,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,30,Adjusted fixture
+0168,2021-09-03,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,49,Adjusted fixture
+0169,2021-09-06,Wiring Repair,Wire fault,Maintenance Team Alpha,43,Repaired wiring
+0170,2021-09-10,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,31,Adjusted fixture
+0171,2021-09-14,Bulb Replacement,Bulb broken,Maintenance Team Alpha,44,Replaced bulb
+0172,2021-09-17,Fixture Adjustment,Fixture position change,Maintenance Team Beta,47,Adjusted fixture
+0173,2021-09-21,Wiring Repair,Wire fault,Maintenance Team Gamma,44,Repaired wiring
+0174,2021-09-25,Bulb Replacement,Bulb broken,Maintenance Team Alpha,46,Replaced bulb
+0175,2021-09-28,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,46,Adjusted fixture
+0176,2021-10-02,Fixture Adjustment,Fixture position change,Maintenance Team Beta,52,Adjusted fixture
+0177,2021-10-06,Wiring Repair,Wire fault,Maintenance Team Beta,32,Repaired wiring
+0178,2021-10-09,Wiring Repair,Wire fault,Maintenance Team Alpha,44,Repaired wiring
+0179,2021-10-13,Wiring Repair,Wire fault,Maintenance Team Alpha,30,Repaired wiring
+0180,2021-10-17,Bulb Replacement,Bulb broken,Maintenance Team Gamma,30,Replaced bulb
+0181,2021-10-20,Bulb Replacement,Bulb broken,Maintenance Team Gamma,50,Replaced bulb
+0182,2021-10-24,Bulb Replacement,Bulb fault,Maintenance Team Alpha,23,Replaced bulb
+0183,2021-10-27,Bulb Replacement,Bulb fault,Maintenance Team Alpha,48,Replaced bulb
+0184,2021-10-31,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,23,Adjusted fixture
+0185,2021-11-04,Bulb Replacement,Bulb fault,Maintenance Team Beta,33,Replaced bulb
+0186,2021-11-07,Bulb Replacement,Bulb fault,Maintenance Team Gamma,57,Replaced bulb
+0187,2021-11-11,Bulb Replacement,Bulb fault,Maintenance Team Alpha,52,Replaced bulb
+0188,2021-11-15,Wiring Repair,Wire fault,Maintenance Team Alpha,25,Repaired wiring
+0189,2021-11-18,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,24,Adjusted fixture
+0190,2021-11-22,Bulb Replacement,Bulb fault,Maintenance Team Beta,38,Replaced bulb
+0191,2021-11-26,Bulb Replacement,Bulb broken,Maintenance Team Alpha,52,Replaced bulb
+0192,2021-11-29,Bulb Replacement,Bulb fault,Maintenance Team Beta,39,Replaced bulb
+0193,2021-12-03,Bulb Replacement,Bulb broken,Maintenance Team Gamma,39,Replaced bulb
+0194,2021-12-07,Bulb Replacement,Bulb broken,Maintenance Team Alpha,31,Replaced bulb
+0195,2021-12-10,Wiring Repair,Wire fault,Maintenance Team Beta,34,Repaired wiring
+0196,2021-12-14,Wiring Repair,Wire fault,Maintenance Team Gamma,50,Repaired wiring
+0197,2021-12-18,Bulb Replacement,Bulb broken,Maintenance Team Alpha,38,Replaced bulb
+0198,2021-12-21,Bulb Replacement,Bulb broken,Maintenance Team Alpha,46,Replaced bulb
+0199,2021-12-25,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,22,Adjusted fixture
+0200,2021-12-29,Wiring Repair,Wire fault,Maintenance Team Beta,34,Repaired wiring
+0201,2022-01-01,Fixture Adjustment,Fixture position change,Maintenance Team Beta,23,Adjusted fixture
+0202,2022-01-05,Fixture Adjustment,Fixture position change,Maintenance Team Beta,37,Adjusted fixture
+0203,2022-01-09,Bulb Replacement,Bulb fault,Maintenance Team Alpha,53,Replaced bulb
+0204,2022-01-12,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,54,Adjusted fixture
+0205,2022-01-16,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,53,Adjusted fixture
+0206,2022-01-20,Bulb Replacement,Bulb broken,Maintenance Team Gamma,34,Replaced bulb
+0207,2022-01-23,Bulb Replacement,Bulb broken,Maintenance Team Alpha,57,Replaced bulb
+0208,2022-01-27,Wiring Repair,Wire fault,Maintenance Team Beta,44,Repaired wiring
+0209,2022-01-31,Bulb Replacement,Bulb broken,Maintenance Team Beta,45,Replaced bulb
+0210,2022-02-03,Wiring Repair,Wire fault,Maintenance Team Beta,36,Repaired wiring
+0211,2022-02-07,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,42,Adjusted fixture
+0212,2022-02-11,Fixture Adjustment,Fixture position change,Maintenance Team Beta,59,Adjusted fixture
+0213,2022-02-14,Bulb Replacement,Bulb broken,Maintenance Team Alpha,35,Replaced bulb
+0214,2022-02-18,Bulb Replacement,Bulb broken,Maintenance Team Alpha,43,Replaced bulb
+0215,2022-02-22,Wiring Repair,Wire fault,Maintenance Team Beta,47,Repaired wiring
+0216,2022-02-25,Wiring Repair,Wire fault,Maintenance Team Beta,53,Repaired wiring
+0217,2022-03-01,Wiring Repair,Wire fault,Maintenance Team Alpha,40,Repaired wiring
+0218,2022-03-05,Wiring Repair,Wire fault,Maintenance Team Beta,28,Repaired wiring
+0219,2022-03-08,Wiring Repair,Wire fault,Maintenance Team Beta,38,Repaired wiring
+0220,2022-03-12,Wiring Repair,Wire fault,Maintenance Team Alpha,51,Repaired wiring
+0221,2022-03-16,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,53,Adjusted fixture
+0222,2022-03-19,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,39,Adjusted fixture
+0223,2022-03-23,Wiring Repair,Wire fault,Maintenance Team Gamma,39,Repaired wiring
+0224,2022-03-27,Bulb Replacement,Bulb broken,Maintenance Team Beta,44,Replaced bulb
+0225,2022-03-30,Bulb Replacement,Bulb broken,Maintenance Team Gamma,43,Replaced bulb
+0226,2022-04-03,Bulb Replacement,Bulb fault,Maintenance Team Beta,23,Replaced bulb
+0227,2022-04-07,Wiring Repair,Wire fault,Maintenance Team Alpha,45,Repaired wiring
+0228,2022-04-10,Wiring Repair,Wire fault,Maintenance Team Gamma,43,Repaired wiring
+0229,2022-04-14,Wiring Repair,Wire fault,Maintenance Team Beta,55,Repaired wiring
+0230,2022-04-17,Bulb Replacement,Bulb fault,Maintenance Team Beta,58,Replaced bulb
+0231,2022-04-21,Wiring Repair,Wire fault,Maintenance Team Alpha,42,Repaired wiring
+0232,2022-04-25,Wiring Repair,Wire fault,Maintenance Team Gamma,60,Repaired wiring
+0233,2022-04-28,Bulb Replacement,Bulb broken,Maintenance Team Alpha,49,Replaced bulb
+0234,2022-05-02,Wiring Repair,Wire fault,Maintenance Team Gamma,31,Repaired wiring
+0235,2022-05-06,Fixture Adjustment,Fixture position change,Maintenance Team Beta,43,Adjusted fixture
+0236,2022-05-09,Fixture Adjustment,Fixture position change,Maintenance Team Beta,44,Adjusted fixture
+0237,2022-05-13,Wiring Repair,Wire fault,Maintenance Team Gamma,60,Repaired wiring
+0238,2022-05-17,Bulb Replacement,Bulb broken,Maintenance Team Gamma,42,Replaced bulb
+0239,2022-05-20,Wiring Repair,Wire fault,Maintenance Team Alpha,23,Repaired wiring
+0240,2022-05-24,Wiring Repair,Wire fault,Maintenance Team Beta,48,Repaired wiring
+0241,2022-05-28,Bulb Replacement,Bulb broken,Maintenance Team Beta,30,Replaced bulb
+0242,2022-05-31,Wiring Repair,Wire fault,Maintenance Team Alpha,44,Repaired wiring
+0243,2022-06-04,Wiring Repair,Wire fault,Maintenance Team Alpha,24,Repaired wiring
+0244,2022-06-08,Bulb Replacement,Bulb fault,Maintenance Team Alpha,37,Replaced bulb
+0245,2022-06-11,Bulb Replacement,Bulb broken,Maintenance Team Beta,39,Replaced bulb
+0246,2022-06-15,Bulb Replacement,Bulb broken,Maintenance Team Beta,27,Replaced bulb
+0247,2022-06-19,Fixture Adjustment,Fixture position change,Maintenance Team Beta,38,Adjusted fixture
+0248,2022-06-22,Wiring Repair,Wire fault,Maintenance Team Beta,24,Repaired wiring
+0249,2022-06-26,Fixture Adjustment,Fixture position change,Maintenance Team Beta,55,Adjusted fixture
+0250,2022-06-30,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,30,Adjusted fixture
+0251,2022-07-03,Wiring Repair,Wire fault,Maintenance Team Beta,24,Repaired wiring
+0252,2022-07-07,Bulb Replacement,Bulb fault,Maintenance Team Alpha,58,Replaced bulb
+0253,2022-07-11,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,24,Adjusted fixture
+0254,2022-07-14,Fixture Adjustment,Fixture position change,Maintenance Team Beta,59,Adjusted fixture
+0255,2022-07-18,Wiring Repair,Wire fault,Maintenance Team Gamma,22,Repaired wiring
+0256,2022-07-22,Bulb Replacement,Bulb broken,Maintenance Team Alpha,43,Replaced bulb
+0257,2022-07-25,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,51,Adjusted fixture
+0258,2022-07-29,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,32,Adjusted fixture
+0259,2022-08-02,Bulb Replacement,Bulb broken,Maintenance Team Gamma,58,Replaced bulb
+0260,2022-08-05,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,20,Adjusted fixture
+0261,2022-08-09,Bulb Replacement,Bulb fault,Maintenance Team Alpha,54,Replaced bulb
+0262,2022-08-13,Bulb Replacement,Bulb broken,Maintenance Team Gamma,23,Replaced bulb
+0263,2022-08-16,Bulb Replacement,Bulb broken,Maintenance Team Beta,33,Replaced bulb
+0264,2022-08-20,Bulb Replacement,Bulb broken,Maintenance Team Alpha,39,Replaced bulb
+0265,2022-08-24,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,35,Adjusted fixture
+0266,2022-08-27,Wiring Repair,Wire fault,Maintenance Team Gamma,31,Repaired wiring
+0267,2022-08-31,Bulb Replacement,Bulb broken,Maintenance Team Beta,23,Replaced bulb
+0268,2022-09-04,Fixture Adjustment,Fixture position change,Maintenance Team Beta,51,Adjusted fixture
+0269,2022-09-07,Wiring Repair,Wire fault,Maintenance Team Gamma,48,Repaired wiring
+0270,2022-09-11,Wiring Repair,Wire fault,Maintenance Team Gamma,29,Repaired wiring
+0271,2022-09-15,Bulb Replacement,Bulb fault,Maintenance Team Gamma,28,Replaced bulb
+0272,2022-09-18,Wiring Repair,Wire fault,Maintenance Team Beta,54,Repaired wiring
+0273,2022-09-22,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,30,Adjusted fixture
+0274,2022-09-25,Wiring Repair,Wire fault,Maintenance Team Beta,57,Repaired wiring
+0275,2022-09-29,Bulb Replacement,Bulb fault,Maintenance Team Gamma,32,Replaced bulb
+0276,2022-10-03,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,54,Adjusted fixture
+0277,2022-10-06,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,38,Adjusted fixture
+0278,2022-10-10,Wiring Repair,Wire fault,Maintenance Team Alpha,45,Repaired wiring
+0279,2022-10-14,Bulb Replacement,Bulb broken,Maintenance Team Beta,59,Replaced bulb
+0280,2022-10-17,Bulb Replacement,Bulb fault,Maintenance Team Beta,26,Replaced bulb
+0281,2022-10-21,Fixture Adjustment,Fixture position change,Maintenance Team Beta,55,Adjusted fixture
+0282,2022-10-25,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,57,Adjusted fixture
+0283,2022-10-28,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,34,Adjusted fixture
+0284,2022-11-01,Bulb Replacement,Bulb broken,Maintenance Team Beta,40,Replaced bulb
+0285,2022-11-05,Bulb Replacement,Bulb broken,Maintenance Team Beta,59,Replaced bulb
+0286,2022-11-08,Bulb Replacement,Bulb fault,Maintenance Team Gamma,34,Replaced bulb
+0287,2022-11-12,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,26,Adjusted fixture
+0288,2022-11-16,Bulb Replacement,Bulb broken,Maintenance Team Alpha,56,Replaced bulb
+0289,2022-11-19,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,60,Adjusted fixture
+0290,2022-11-23,Wiring Repair,Wire fault,Maintenance Team Gamma,32,Repaired wiring
+0291,2022-11-27,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,29,Adjusted fixture
+0292,2022-11-30,Bulb Replacement,Bulb broken,Maintenance Team Alpha,37,Replaced bulb
+0293,2022-12-04,Wiring Repair,Wire fault,Maintenance Team Beta,29,Repaired wiring
+0294,2022-12-08,Bulb Replacement,Bulb fault,Maintenance Team Alpha,34,Replaced bulb
+0295,2022-12-11,Bulb Replacement,Bulb broken,Maintenance Team Alpha,28,Replaced bulb
+0296,2022-12-15,Wiring Repair,Wire fault,Maintenance Team Beta,32,Repaired wiring
+0297,2022-12-19,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,40,Adjusted fixture
+0298,2022-12-22,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,22,Adjusted fixture
+0299,2022-12-26,Bulb Replacement,Bulb fault,Maintenance Team Alpha,46,Replaced bulb
+0300,2022-12-30,Bulb Replacement,Bulb fault,Maintenance Team Gamma,38,Replaced bulb
+0301,2023-01-02,Wiring Repair,Wire fault,Maintenance Team Beta,50,Repaired wiring
+0302,2023-01-06,Fixture Adjustment,Fixture position change,Maintenance Team Beta,24,Adjusted fixture
+0303,2023-01-10,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,34,Adjusted fixture
+0304,2023-01-13,Bulb Replacement,Bulb fault,Maintenance Team Alpha,34,Replaced bulb
+0305,2023-01-17,Wiring Repair,Wire fault,Maintenance Team Beta,43,Repaired wiring
+0306,2023-01-21,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,48,Adjusted fixture
+0307,2023-01-24,Fixture Adjustment,Fixture position change,Maintenance Team Beta,47,Adjusted fixture
+0308,2023-01-28,Wiring Repair,Wire fault,Maintenance Team Alpha,51,Repaired wiring
+0309,2023-02-01,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,52,Adjusted fixture
+0310,2023-02-04,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,53,Adjusted fixture
+0311,2023-02-08,Wiring Repair,Wire fault,Maintenance Team Alpha,46,Repaired wiring
+0312,2023-02-12,Bulb Replacement,Bulb broken,Maintenance Team Gamma,41,Replaced bulb
+0313,2023-02-15,Bulb Replacement,Bulb broken,Maintenance Team Beta,25,Replaced bulb
+0314,2023-02-19,Bulb Replacement,Bulb broken,Maintenance Team Gamma,35,Replaced bulb
+0315,2023-02-23,Wiring Repair,Wire fault,Maintenance Team Alpha,21,Repaired wiring
+0316,2023-02-26,Bulb Replacement,Bulb broken,Maintenance Team Gamma,58,Replaced bulb
+0317,2023-03-02,Bulb Replacement,Bulb broken,Maintenance Team Alpha,53,Replaced bulb
+0318,2023-03-06,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,45,Adjusted fixture
+0319,2023-03-09,Fixture Adjustment,Fixture position change,Maintenance Team Beta,25,Adjusted fixture
+0320,2023-03-13,Bulb Replacement,Bulb broken,Maintenance Team Gamma,49,Replaced bulb
+0321,2023-03-16,Wiring Repair,Wire fault,Maintenance Team Beta,48,Repaired wiring
+0322,2023-03-20,Bulb Replacement,Bulb broken,Maintenance Team Gamma,38,Replaced bulb
+0323,2023-03-24,Fixture Adjustment,Fixture position change,Maintenance Team Beta,29,Adjusted fixture
+0324,2023-03-27,Wiring Repair,Wire fault,Maintenance Team Gamma,41,Repaired wiring
+0325,2023-03-31,Bulb Replacement,Bulb fault,Maintenance Team Gamma,54,Replaced bulb
+0326,2023-04-04,Bulb Replacement,Bulb fault,Maintenance Team Alpha,57,Replaced bulb
+0327,2023-04-07,Wiring Repair,Wire fault,Maintenance Team Beta,54,Repaired wiring
+0328,2023-04-11,Bulb Replacement,Bulb fault,Maintenance Team Beta,36,Replaced bulb
+0329,2023-04-15,Bulb Replacement,Bulb broken,Maintenance Team Beta,25,Replaced bulb
+0330,2023-04-18,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,43,Adjusted fixture
+0331,2023-04-22,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,36,Adjusted fixture
+0332,2023-04-26,Wiring Repair,Wire fault,Maintenance Team Beta,23,Repaired wiring
+0333,2023-04-29,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,28,Adjusted fixture
+0334,2023-05-03,Bulb Replacement,Bulb broken,Maintenance Team Gamma,33,Replaced bulb
+0335,2023-05-07,Wiring Repair,Wire fault,Maintenance Team Alpha,49,Repaired wiring
+0336,2023-05-10,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,51,Adjusted fixture
+0337,2023-05-14,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,43,Adjusted fixture
+0338,2023-05-18,Bulb Replacement,Bulb fault,Maintenance Team Alpha,25,Replaced bulb
+0339,2023-05-21,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,20,Adjusted fixture
+0340,2023-05-25,Bulb Replacement,Bulb fault,Maintenance Team Alpha,42,Replaced bulb
+0341,2023-05-29,Wiring Repair,Wire fault,Maintenance Team Alpha,34,Repaired wiring
+0342,2023-06-01,Bulb Replacement,Bulb broken,Maintenance Team Gamma,30,Replaced bulb
+0343,2023-06-05,Wiring Repair,Wire fault,Maintenance Team Gamma,49,Repaired wiring
+0344,2023-06-09,Bulb Replacement,Bulb fault,Maintenance Team Beta,59,Replaced bulb
+0345,2023-06-12,Wiring Repair,Wire fault,Maintenance Team Gamma,50,Repaired wiring
+0346,2023-06-16,Bulb Replacement,Bulb broken,Maintenance Team Gamma,45,Replaced bulb
+0347,2023-06-20,Wiring Repair,Wire fault,Maintenance Team Beta,34,Repaired wiring
+0348,2023-06-23,Fixture Adjustment,Fixture position change,Maintenance Team Beta,60,Adjusted fixture
+0349,2023-06-27,Wiring Repair,Wire fault,Maintenance Team Gamma,56,Repaired wiring
+0350,2023-07-01,Bulb Replacement,Bulb fault,Maintenance Team Beta,54,Replaced bulb
+0351,2023-07-04,Wiring Repair,Wire fault,Maintenance Team Gamma,60,Repaired wiring
+0352,2023-07-08,Wiring Repair,Wire fault,Maintenance Team Alpha,35,Repaired wiring
+0353,2023-07-12,Wiring Repair,Wire fault,Maintenance Team Alpha,41,Repaired wiring
+0354,2023-07-15,Wiring Repair,Wire fault,Maintenance Team Gamma,21,Repaired wiring
+0355,2023-07-19,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,59,Adjusted fixture
+0356,2023-07-23,Wiring Repair,Wire fault,Maintenance Team Beta,34,Repaired wiring
+0357,2023-07-26,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,23,Adjusted fixture
+0358,2023-07-30,Wiring Repair,Wire fault,Maintenance Team Alpha,45,Repaired wiring
+0359,2023-08-03,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,27,Adjusted fixture
+0360,2023-08-06,Fixture Adjustment,Fixture position change,Maintenance Team Beta,52,Adjusted fixture
+0361,2023-08-10,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,52,Adjusted fixture
+0362,2023-08-14,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,46,Adjusted fixture
+0363,2023-08-17,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,20,Adjusted fixture
+0364,2023-08-21,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,49,Adjusted fixture
+0365,2023-08-24,Bulb Replacement,Bulb fault,Maintenance Team Gamma,54,Replaced bulb
+0366,2023-08-28,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,33,Adjusted fixture
+0367,2023-09-01,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,56,Adjusted fixture
+0368,2023-09-04,Wiring Repair,Wire fault,Maintenance Team Gamma,28,Repaired wiring
+0369,2023-09-08,Wiring Repair,Wire fault,Maintenance Team Alpha,37,Repaired wiring
+0370,2023-09-12,Wiring Repair,Wire fault,Maintenance Team Beta,40,Repaired wiring
+0371,2023-09-15,Bulb Replacement,Bulb broken,Maintenance Team Beta,58,Replaced bulb
+0372,2023-09-19,Wiring Repair,Wire fault,Maintenance Team Beta,58,Repaired wiring
+0373,2023-09-23,Wiring Repair,Wire fault,Maintenance Team Beta,60,Repaired wiring
+0374,2023-09-26,Wiring Repair,Wire fault,Maintenance Team Beta,39,Repaired wiring
+0375,2023-09-30,Wiring Repair,Wire fault,Maintenance Team Beta,53,Repaired wiring
+0376,2023-10-04,Wiring Repair,Wire fault,Maintenance Team Gamma,43,Repaired wiring
+0377,2023-10-07,Wiring Repair,Wire fault,Maintenance Team Beta,24,Repaired wiring
+0378,2023-10-11,Bulb Replacement,Bulb fault,Maintenance Team Gamma,27,Replaced bulb
+0379,2023-10-15,Wiring Repair,Wire fault,Maintenance Team Alpha,45,Repaired wiring
+0380,2023-10-18,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,54,Adjusted fixture
+0381,2023-10-22,Bulb Replacement,Bulb fault,Maintenance Team Gamma,22,Replaced bulb
+0382,2023-10-26,Wiring Repair,Wire fault,Maintenance Team Alpha,37,Repaired wiring
+0383,2023-10-29,Bulb Replacement,Bulb broken,Maintenance Team Beta,29,Replaced bulb
+0384,2023-11-02,Fixture Adjustment,Fixture position change,Maintenance Team Beta,44,Adjusted fixture
+0385,2023-11-06,Fixture Adjustment,Fixture position change,Maintenance Team Beta,60,Adjusted fixture
+0386,2023-11-09,Bulb Replacement,Bulb broken,Maintenance Team Gamma,35,Replaced bulb
+0387,2023-11-13,Bulb Replacement,Bulb broken,Maintenance Team Alpha,35,Replaced bulb
+0388,2023-11-17,Wiring Repair,Wire fault,Maintenance Team Alpha,59,Repaired wiring
+0389,2023-11-20,Wiring Repair,Wire fault,Maintenance Team Alpha,60,Repaired wiring
+0390,2023-11-24,Fixture Adjustment,Fixture position change,Maintenance Team Beta,29,Adjusted fixture
+0391,2023-11-28,Wiring Repair,Wire fault,Maintenance Team Beta,38,Repaired wiring
+0392,2023-12-01,Bulb Replacement,Bulb broken,Maintenance Team Alpha,35,Replaced bulb
+0393,2023-12-05,Fixture Adjustment,Fixture position change,Maintenance Team Beta,57,Adjusted fixture
+0394,2023-12-09,Bulb Replacement,Bulb fault,Maintenance Team Beta,54,Replaced bulb
+0395,2023-12-12,Fixture Adjustment,Fixture position change,Maintenance Team Beta,29,Adjusted fixture
+0396,2023-12-16,Wiring Repair,Wire fault,Maintenance Team Alpha,21,Repaired wiring
+0397,2023-12-20,Bulb Replacement,Bulb fault,Maintenance Team Beta,38,Replaced bulb
+0398,2023-12-23,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,29,Adjusted fixture
+0399,2023-12-27,Bulb Replacement,Bulb fault,Maintenance Team Alpha,26,Replaced bulb
+0400,2023-12-31,Fixture Adjustment,Fixture position change,Maintenance Team Beta,25,Adjusted fixture
+0401,2024-01-03,Fixture Adjustment,Fixture position change,Maintenance Team Beta,49,Adjusted fixture
+0402,2024-01-07,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,45,Adjusted fixture
+0403,2024-01-11,Bulb Replacement,Bulb fault,Maintenance Team Beta,21,Replaced bulb
+0404,2024-01-14,Bulb Replacement,Bulb fault,Maintenance Team Beta,56,Replaced bulb
+0405,2024-01-18,Wiring Repair,Wire fault,Maintenance Team Beta,54,Repaired wiring
+0406,2024-01-22,Wiring Repair,Wire fault,Maintenance Team Alpha,53,Repaired wiring
+0407,2024-01-25,Bulb Replacement,Bulb broken,Maintenance Team Gamma,28,Replaced bulb
+0408,2024-01-29,Bulb Replacement,Bulb broken,Maintenance Team Beta,49,Replaced bulb
+0409,2024-02-02,Bulb Replacement,Bulb fault,Maintenance Team Alpha,22,Replaced bulb
+0410,2024-02-05,Wiring Repair,Wire fault,Maintenance Team Beta,38,Repaired wiring
+0411,2024-02-09,Bulb Replacement,Bulb fault,Maintenance Team Gamma,22,Replaced bulb
+0412,2024-02-12,Bulb Replacement,Bulb broken,Maintenance Team Beta,39,Replaced bulb
+0413,2024-02-16,Fixture Adjustment,Fixture position change,Maintenance Team Beta,58,Adjusted fixture
+0414,2024-02-20,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,56,Adjusted fixture
+0415,2024-02-23,Wiring Repair,Wire fault,Maintenance Team Alpha,57,Repaired wiring
+0416,2024-02-27,Bulb Replacement,Bulb broken,Maintenance Team Alpha,53,Replaced bulb
+0417,2024-03-02,Fixture Adjustment,Fixture position change,Maintenance Team Beta,23,Adjusted fixture
+0418,2024-03-05,Bulb Replacement,Bulb fault,Maintenance Team Gamma,55,Replaced bulb
+0419,2024-03-09,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,53,Adjusted fixture
+0420,2024-03-13,Wiring Repair,Wire fault,Maintenance Team Alpha,49,Repaired wiring
+0421,2024-03-16,Fixture Adjustment,Fixture position change,Maintenance Team Beta,51,Adjusted fixture
+0422,2024-03-20,Fixture Adjustment,Fixture position change,Maintenance Team Beta,51,Adjusted fixture
+0423,2024-03-24,Bulb Replacement,Bulb broken,Maintenance Team Gamma,60,Replaced bulb
+0424,2024-03-27,Bulb Replacement,Bulb broken,Maintenance Team Alpha,57,Replaced bulb
+0425,2024-03-31,Wiring Repair,Wire fault,Maintenance Team Gamma,54,Repaired wiring
+0426,2024-04-04,Bulb Replacement,Bulb broken,Maintenance Team Gamma,57,Replaced bulb
+0427,2024-04-07,Bulb Replacement,Bulb broken,Maintenance Team Gamma,20,Replaced bulb
+0428,2024-04-11,Wiring Repair,Wire fault,Maintenance Team Beta,45,Repaired wiring
+0429,2024-04-15,Wiring Repair,Wire fault,Maintenance Team Alpha,39,Repaired wiring
+0430,2024-04-18,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,57,Adjusted fixture
+0431,2024-04-22,Bulb Replacement,Bulb broken,Maintenance Team Alpha,45,Replaced bulb
+0432,2024-04-26,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,39,Adjusted fixture
+0433,2024-04-29,Fixture Adjustment,Fixture position change,Maintenance Team Beta,40,Adjusted fixture
+0434,2024-05-03,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,32,Adjusted fixture
+0435,2024-05-07,Wiring Repair,Wire fault,Maintenance Team Beta,22,Repaired wiring
+0436,2024-05-10,Wiring Repair,Wire fault,Maintenance Team Alpha,49,Repaired wiring
+0437,2024-05-14,Bulb Replacement,Bulb fault,Maintenance Team Alpha,56,Replaced bulb
+0438,2024-05-18,Bulb Replacement,Bulb broken,Maintenance Team Gamma,51,Replaced bulb
+0439,2024-05-21,Wiring Repair,Wire fault,Maintenance Team Beta,48,Repaired wiring
+0440,2024-05-25,Bulb Replacement,Bulb broken,Maintenance Team Gamma,27,Replaced bulb
+0441,2024-05-29,Wiring Repair,Wire fault,Maintenance Team Beta,32,Repaired wiring
+0442,2024-06-01,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,50,Adjusted fixture
+0443,2024-06-05,Bulb Replacement,Bulb broken,Maintenance Team Alpha,20,Replaced bulb
+0444,2024-06-09,Bulb Replacement,Bulb fault,Maintenance Team Gamma,22,Replaced bulb
+0445,2024-06-12,Bulb Replacement,Bulb fault,Maintenance Team Beta,47,Replaced bulb
+0446,2024-06-16,Wiring Repair,Wire fault,Maintenance Team Gamma,31,Repaired wiring
+0447,2024-06-20,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,35,Adjusted fixture
+0448,2024-06-23,Bulb Replacement,Bulb fault,Maintenance Team Alpha,58,Replaced bulb
+0449,2024-06-27,Fixture Adjustment,Fixture position change,Maintenance Team Beta,60,Adjusted fixture
+0450,2024-07-01,Bulb Replacement,Bulb broken,Maintenance Team Alpha,58,Replaced bulb
+0451,2024-07-04,Fixture Adjustment,Fixture position change,Maintenance Team Beta,31,Adjusted fixture
+0452,2024-07-08,Wiring Repair,Wire fault,Maintenance Team Beta,37,Repaired wiring
+0453,2024-07-12,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,49,Adjusted fixture
+0454,2024-07-15,Bulb Replacement,Bulb fault,Maintenance Team Beta,42,Replaced bulb
+0455,2024-07-19,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,54,Adjusted fixture
+0456,2024-07-22,Fixture Adjustment,Fixture position change,Maintenance Team Beta,38,Adjusted fixture
+0457,2024-07-26,Bulb Replacement,Bulb broken,Maintenance Team Beta,41,Replaced bulb
+0458,2024-07-30,Wiring Repair,Wire fault,Maintenance Team Beta,26,Repaired wiring
+0459,2024-08-02,Bulb Replacement,Bulb broken,Maintenance Team Beta,60,Replaced bulb
+0460,2024-08-06,Bulb Replacement,Bulb fault,Maintenance Team Alpha,24,Replaced bulb
+0461,2024-08-10,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,37,Adjusted fixture
+0462,2024-08-13,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,32,Adjusted fixture
+0463,2024-08-17,Wiring Repair,Wire fault,Maintenance Team Beta,25,Repaired wiring
+0464,2024-08-21,Wiring Repair,Wire fault,Maintenance Team Alpha,51,Repaired wiring
+0465,2024-08-24,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,51,Adjusted fixture
+0466,2024-08-28,Bulb Replacement,Bulb broken,Maintenance Team Gamma,42,Replaced bulb
+0467,2024-09-01,Wiring Repair,Wire fault,Maintenance Team Alpha,58,Repaired wiring
+0468,2024-09-04,Fixture Adjustment,Fixture position change,Maintenance Team Gamma,26,Adjusted fixture
+0469,2024-09-08,Fixture Adjustment,Fixture position change,Maintenance Team Beta,58,Adjusted fixture
+0470,2024-09-12,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,47,Adjusted fixture
+0471,2024-09-15,Bulb Replacement,Bulb broken,Maintenance Team Alpha,55,Replaced bulb
+0472,2024-09-19,Bulb Replacement,Bulb fault,Maintenance Team Alpha,58,Replaced bulb
+0473,2024-09-23,Wiring Repair,Wire fault,Maintenance Team Alpha,34,Repaired wiring
+0474,2024-09-26,Wiring Repair,Wire fault,Maintenance Team Gamma,55,Repaired wiring
+0475,2024-09-30,Wiring Repair,Wire fault,Maintenance Team Gamma,55,Repaired wiring
+0476,2024-10-04,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,56,Adjusted fixture
+0477,2024-10-07,Bulb Replacement,Bulb broken,Maintenance Team Beta,44,Replaced bulb
+0478,2024-10-11,Bulb Replacement,Bulb fault,Maintenance Team Alpha,52,Replaced bulb
+0479,2024-10-15,Wiring Repair,Wire fault,Maintenance Team Beta,40,Repaired wiring
+0480,2024-10-18,Bulb Replacement,Bulb fault,Maintenance Team Beta,29,Replaced bulb
+0481,2024-10-22,Bulb Replacement,Bulb broken,Maintenance Team Beta,21,Replaced bulb
+0482,2024-10-26,Fixture Adjustment,Fixture position change,Maintenance Team Beta,31,Adjusted fixture
+0483,2024-10-29,Wiring Repair,Wire fault,Maintenance Team Gamma,55,Repaired wiring
+0484,2024-11-02,Wiring Repair,Wire fault,Maintenance Team Gamma,27,Repaired wiring
+0485,2024-11-06,Wiring Repair,Wire fault,Maintenance Team Alpha,25,Repaired wiring
+0486,2024-11-09,Bulb Replacement,Bulb fault,Maintenance Team Gamma,29,Replaced bulb
+0487,2024-11-13,Bulb Replacement,Bulb fault,Maintenance Team Gamma,60,Replaced bulb
+0488,2024-11-17,Bulb Replacement,Bulb fault,Maintenance Team Alpha,48,Replaced bulb
+0489,2024-11-20,Bulb Replacement,Bulb broken,Maintenance Team Beta,55,Replaced bulb
+0490,2024-11-24,Bulb Replacement,Bulb fault,Maintenance Team Beta,48,Replaced bulb
+0491,2024-11-28,Fixture Adjustment,Fixture position change,Maintenance Team Beta,42,Adjusted fixture
+0492,2024-12-01,Bulb Replacement,Bulb fault,Maintenance Team Beta,34,Replaced bulb
+0493,2024-12-05,Bulb Replacement,Bulb broken,Maintenance Team Gamma,20,Replaced bulb
+0494,2024-12-09,Bulb Replacement,Bulb fault,Maintenance Team Alpha,47,Replaced bulb
+0495,2024-12-12,Bulb Replacement,Bulb broken,Maintenance Team Beta,60,Replaced bulb
+0496,2024-12-16,Bulb Replacement,Bulb fault,Maintenance Team Beta,20,Replaced bulb
+0497,2024-12-20,Fixture Adjustment,Fixture position change,Maintenance Team Alpha,23,Adjusted fixture
+0498,2024-12-23,Wiring Repair,Wire fault,Maintenance Team Alpha,55,Repaired wiring
+0499,2024-12-27,Bulb Replacement,Bulb broken,Maintenance Team Beta,29,Replaced bulb
+0500,2024-12-31,Bulb Replacement,Bulb fault,Maintenance Team Beta,30,Replaced bulb
